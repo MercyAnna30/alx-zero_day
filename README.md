@@ -1,2 +1,2 @@
 My first readme
-I just updated mu resdme file
+I just updated my readme file
